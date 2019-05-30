@@ -1,0 +1,757 @@
+2019-05-29 09:28:02.947 +08:00 [serviceconsume-netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 09:28:03.019 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 09:28:03.019 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 09:28:03.019 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 09:28:03.019 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 09:28:03.020 +08:00 [serviceconsume-netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 09:28:03.020 +08:00 [serviceconsume-netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 09:28:03.032 +08:00 [serviceconsume-netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 09:28:03.033 +08:00 [serviceconsume-netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 09:28:03.033 +08:00 [serviceconsume-netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 09:28:03.217 +08:00 [serviceconsume-netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 09:28:33.061 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=7].
+2019-05-29 09:29:03.039 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=18].
+2019-05-29 09:29:33.043 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:29:33 +00:00
+2019-05-29 09:30:33.033 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:30:33 +00:00
+2019-05-29 09:31:33.054 +08:00 [serviceconsume-netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:31:33 +00:00
+2019-05-29 09:34:57.024 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 09:34:57.051 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 09:34:57.051 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 09:34:57.051 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 09:34:57.051 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 09:34:57.052 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 09:34:57.052 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 09:34:57.066 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 09:34:57.067 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 09:34:57.067 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 09:34:57.202 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 09:35:27.067 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 09:35:57.066 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=19].
+2019-05-29 09:36:27.089 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:36:27 +00:00
+2019-05-29 09:37:27.084 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:37:27 +00:00
+2019-05-29 09:38:27.057 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:38:27 +00:00
+2019-05-29 09:39:27.061 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:39:27 +00:00
+2019-05-29 09:39:27.135 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0599938s
+2019-05-29 09:40:27.055 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:40:27 +00:00
+2019-05-29 09:41:27.049 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:41:27 +00:00
+2019-05-29 09:42:27.048 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:42:27 +00:00
+2019-05-29 09:43:27.060 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:43:27 +00:00
+2019-05-29 09:44:27.059 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 1:44:27 +00:00
+2019-05-29 14:05:04.559 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 14:05:04.626 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 14:05:04.626 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 14:05:04.627 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 14:05:04.627 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 14:05:04.627 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 14:05:04.628 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 14:05:04.643 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 14:05:04.644 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 14:05:04.644 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 14:05:04.760 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 14:05:05.250 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 14:05:05.792 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=20].
+2019-05-29 14:05:34.659 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:05:34 +00:00
+2019-05-29 14:06:34.636 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:06:34 +00:00
+2019-05-29 14:07:34.632 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:07:34 +00:00
+2019-05-29 14:08:34.629 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:08:34 +00:00
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2019-05-29 14:09:18.077 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
+2019-05-29 14:09:32.738 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 14:09:32.764 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 14:09:32.765 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 14:09:32.765 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 14:09:32.765 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 14:09:32.765 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 14:09:32.765 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 14:09:32.782 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 14:09:32.783 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 14:09:32.783 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 14:09:32.940 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 14:09:33.373 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 14:10:01.696 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2019-05-29 14:10:01.696 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2019-05-29 14:10:01.696 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2019-05-29 14:10:01.697 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2019-05-29 14:10:01.697 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2019-05-29 14:10:01.697 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2019-05-29 14:10:01.697 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
+2019-05-29 14:17:07.690 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 14:17:07.716 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 14:17:07.717 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 14:17:07.717 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 14:17:07.717 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 14:17:07.717 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 14:17:07.717 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 14:17:07.729 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 14:17:07.729 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 14:17:07.729 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 14:17:07.851 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 14:17:08.342 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 14:17:08.937 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=22].
+2019-05-29 14:17:37.746 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:17:37 +00:00
+2019-05-29 14:18:37.730 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:18:37 +00:00
+2019-05-29 14:19:37.742 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:19:37 +00:00
+2019-05-29 14:20:37.743 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:20:37 +00:00
+2019-05-29 14:21:37.736 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:21:37 +00:00
+2019-05-29 14:22:37.733 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:22:37 +00:00
+2019-05-29 14:24:07.344 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 14:24:07.366 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 14:24:07.366 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 14:24:07.366 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 14:24:07.366 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 14:24:07.367 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 14:24:07.367 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 14:24:07.380 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 14:24:07.381 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 14:24:07.381 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 14:24:07.502 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 14:24:07.958 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 14:24:08.500 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=25].
+2019-05-29 14:24:10.449 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0729116s
+2019-05-29 14:24:31.378 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 3 trace segment. cost: 00:00:00.0141090s
+2019-05-29 14:24:37.376 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0073035s
+2019-05-29 14:24:37.404 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:24:37 +00:00
+2019-05-29 14:25:06.176 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 14:25:06.201 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 14:25:06.201 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 14:25:06.201 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 14:25:06.201 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 14:25:06.201 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 14:25:06.202 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 14:25:06.215 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 14:25:06.215 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 14:25:06.215 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 14:25:06.335 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 14:25:06.859 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 14:25:36.219 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=29].
+2019-05-29 14:26:06.299 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0763165s
+2019-05-29 14:26:36.259 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0442326s
+2019-05-29 14:26:36.268 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:26:36 +00:00
+2019-05-29 14:27:06.262 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0491088s
+2019-05-29 14:27:36.279 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0606136s
+2019-05-29 14:27:36.281 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:27:36 +00:00
+2019-05-29 14:28:06.255 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0433510s
+2019-05-29 14:28:21.263 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0510380s
+2019-05-29 14:28:24.221 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0091504s
+2019-05-29 14:28:36.257 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:28:36 +00:00
+2019-05-29 14:28:36.257 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0455572s
+2019-05-29 14:29:06.258 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0443681s
+2019-05-29 14:29:36.230 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:29:36 +00:00
+2019-05-29 14:29:36.240 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0260461s
+2019-05-29 14:30:06.249 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0456020s
+2019-05-29 14:30:36.217 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:30:36 +00:00
+2019-05-29 14:30:36.259 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0499086s
+2019-05-29 14:31:06.224 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0146910s
+2019-05-29 14:31:15.224 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 3 trace segment. cost: 00:00:00.0118382s
+2019-05-29 14:31:36.219 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:31:36 +00:00
+2019-05-29 14:31:36.256 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0463177s
+2019-05-29 14:32:06.244 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437308s
+2019-05-29 14:32:15.212 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0076025s
+2019-05-29 14:32:36.209 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:32:36 +00:00
+2019-05-29 14:32:36.210 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0054675s
+2019-05-29 14:33:06.241 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432834s
+2019-05-29 14:33:36.224 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:33:36 +00:00
+2019-05-29 14:33:36.258 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445838s
+2019-05-29 14:34:06.257 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435337s
+2019-05-29 14:34:36.226 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:34:36 +00:00
+2019-05-29 14:34:36.226 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0118061s
+2019-05-29 14:35:06.217 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0041666s
+2019-05-29 14:35:36.274 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0600295s
+2019-05-29 14:35:36.274 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:35:36 +00:00
+2019-05-29 14:36:06.224 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0124073s
+2019-05-29 14:36:36.275 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:36:36 +00:00
+2019-05-29 14:36:36.293 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0807391s
+2019-05-29 14:37:06.251 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441490s
+2019-05-29 14:37:36.274 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0666863s
+2019-05-29 14:37:36.274 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 6:37:36 +00:00
+2019-05-29 15:02:42.852 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-05-29 15:02:42.894 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-05-29 15:02:42.895 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-05-29 15:02:42.895 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-05-29 15:02:42.895 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-05-29 15:02:42.895 +08:00 [serviceconsume_netcore] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-05-29 15:02:42.896 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-05-29 15:02:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2019-05-29 15:02:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-05-29 15:02:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-05-29 15:02:43.092 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[172.17.78.118:11800].
+2019-05-29 15:02:43.504 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2019-05-29 15:02:44.062 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=31].
+2019-05-29 15:02:48.993 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0759884s
+2019-05-29 15:03:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0443684s
+2019-05-29 15:03:12.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:03:12 +00:00
+2019-05-29 15:03:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0452532s
+2019-05-29 15:04:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:04:12 +00:00
+2019-05-29 15:04:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0051097s
+2019-05-29 15:04:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0090780s
+2019-05-29 15:05:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:05:12 +00:00
+2019-05-29 15:05:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0101921s
+2019-05-29 15:05:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0444729s
+2019-05-29 15:06:12.931 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:06:12 +00:00
+2019-05-29 15:06:12.991 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.0860399s
+2019-05-29 15:06:15.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 12 trace segment. cost: 00:00:00.0129252s
+2019-05-29 15:06:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0043174s
+2019-05-29 15:07:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:07:12 +00:00
+2019-05-29 15:07:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0170591s
+2019-05-29 15:07:42.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0194642s
+2019-05-29 15:08:12.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:08:12 +00:00
+2019-05-29 15:08:12.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0528626s
+2019-05-29 15:08:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0090392s
+2019-05-29 15:09:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:09:12 +00:00
+2019-05-29 15:09:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0117992s
+2019-05-29 15:09:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0124241s
+2019-05-29 15:10:12.934 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:10:12 +00:00
+2019-05-29 15:10:12.967 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0591892s
+2019-05-29 15:10:42.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449287s
+2019-05-29 15:11:12.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:11:12 +00:00
+2019-05-29 15:11:12.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437597s
+2019-05-29 15:11:42.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0132650s
+2019-05-29 15:12:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:12:12 +00:00
+2019-05-29 15:12:12.971 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0643527s
+2019-05-29 15:12:42.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0088797s
+2019-05-29 15:13:12.927 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0226252s
+2019-05-29 15:13:12.927 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:13:12 +00:00
+2019-05-29 15:13:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0131647s
+2019-05-29 15:14:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:14:12 +00:00
+2019-05-29 15:14:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0429917s
+2019-05-29 15:14:42.968 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0581463s
+2019-05-29 15:15:12.931 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:15:12 +00:00
+2019-05-29 15:15:12.979 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0767351s
+2019-05-29 15:15:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0083371s
+2019-05-29 15:16:12.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:16:12 +00:00
+2019-05-29 15:16:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437615s
+2019-05-29 15:16:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435956s
+2019-05-29 15:17:12.926 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:17:12 +00:00
+2019-05-29 15:17:12.976 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0783536s
+2019-05-29 15:17:42.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0120726s
+2019-05-29 15:18:12.932 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:18:12 +00:00
+2019-05-29 15:18:12.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432543s
+2019-05-29 15:18:42.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438867s
+2019-05-29 15:19:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0110895s
+2019-05-29 15:19:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:19:12 +00:00
+2019-05-29 15:19:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0447535s
+2019-05-29 15:20:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:20:12 +00:00
+2019-05-29 15:20:12.978 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0710383s
+2019-05-29 15:20:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0097723s
+2019-05-29 15:21:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:21:12 +00:00
+2019-05-29 15:21:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0070145s
+2019-05-29 15:21:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0065329s
+2019-05-29 15:22:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:22:12 +00:00
+2019-05-29 15:22:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0150326s
+2019-05-29 15:22:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432246s
+2019-05-29 15:23:12.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:23:12 +00:00
+2019-05-29 15:23:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0456528s
+2019-05-29 15:23:42.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0430193s
+2019-05-29 15:24:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:24:12 +00:00
+2019-05-29 15:24:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0082596s
+2019-05-29 15:24:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435596s
+2019-05-29 15:25:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:25:12 +00:00
+2019-05-29 15:25:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0123165s
+2019-05-29 15:25:42.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0031060s
+2019-05-29 15:26:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:26:12 +00:00
+2019-05-29 15:26:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0143109s
+2019-05-29 15:26:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0452583s
+2019-05-29 15:27:12.925 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:27:12 +00:00
+2019-05-29 15:27:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435286s
+2019-05-29 15:27:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0041101s
+2019-05-29 15:28:12.926 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:28:12 +00:00
+2019-05-29 15:28:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435061s
+2019-05-29 15:28:42.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0179433s
+2019-05-29 15:29:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:29:12 +00:00
+2019-05-29 15:29:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0099475s
+2019-05-29 15:29:42.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0118860s
+2019-05-29 15:30:12.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:30:12 +00:00
+2019-05-29 15:30:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0040635s
+2019-05-29 15:30:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0033496s
+2019-05-29 15:31:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:31:12 +00:00
+2019-05-29 15:31:12.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0442136s
+2019-05-29 15:31:42.902 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0039686s
+2019-05-29 15:32:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:32:12 +00:00
+2019-05-29 15:32:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435611s
+2019-05-29 15:32:42.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0127330s
+2019-05-29 15:33:12.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:33:12 +00:00
+2019-05-29 15:33:12.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0077623s
+2019-05-29 15:33:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0133762s
+2019-05-29 15:34:12.930 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:34:12 +00:00
+2019-05-29 15:34:12.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0293120s
+2019-05-29 15:34:42.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445814s
+2019-05-29 15:35:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:35:12 +00:00
+2019-05-29 15:35:12.930 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0205053s
+2019-05-29 15:35:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438149s
+2019-05-29 15:36:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:36:12 +00:00
+2019-05-29 15:36:12.960 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0539896s
+2019-05-29 15:36:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440925s
+2019-05-29 15:37:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:37:12 +00:00
+2019-05-29 15:37:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0051094s
+2019-05-29 15:37:42.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0152633s
+2019-05-29 15:38:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:38:12 +00:00
+2019-05-29 15:38:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0439549s
+2019-05-29 15:38:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440895s
+2019-05-29 15:39:12.925 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:39:12 +00:00
+2019-05-29 15:39:12.937 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0315374s
+2019-05-29 15:39:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0104814s
+2019-05-29 15:40:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:40:12 +00:00
+2019-05-29 15:40:12.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0366177s
+2019-05-29 15:40:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0034076s
+2019-05-29 15:41:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:41:12 +00:00
+2019-05-29 15:41:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441580s
+2019-05-29 15:41:42.901 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0074946s
+2019-05-29 15:42:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:42:12 +00:00
+2019-05-29 15:42:12.961 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0525823s
+2019-05-29 15:42:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0044481s
+2019-05-29 15:43:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:43:12 +00:00
+2019-05-29 15:43:12.961 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0512219s
+2019-05-29 15:43:42.963 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0582031s
+2019-05-29 15:44:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445603s
+2019-05-29 15:44:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:44:12 +00:00
+2019-05-29 15:44:42.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0114560s
+2019-05-29 15:45:12.929 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0253987s
+2019-05-29 15:45:12.929 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:45:12 +00:00
+2019-05-29 15:45:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437404s
+2019-05-29 15:46:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:46:12 +00:00
+2019-05-29 15:46:12.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0433429s
+2019-05-29 15:46:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0035948s
+2019-05-29 15:47:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:47:12 +00:00
+2019-05-29 15:47:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0094800s
+2019-05-29 15:47:42.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0431020s
+2019-05-29 15:48:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:48:12 +00:00
+2019-05-29 15:48:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0115182s
+2019-05-29 15:48:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0451168s
+2019-05-29 15:49:12.897 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:49:12 +00:00
+2019-05-29 15:49:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0136472s
+2019-05-29 15:49:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438276s
+2019-05-29 15:50:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:50:12 +00:00
+2019-05-29 15:50:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0447493s
+2019-05-29 15:50:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440192s
+2019-05-29 15:51:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0072849s
+2019-05-29 15:51:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:51:12 +00:00
+2019-05-29 15:51:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0038613s
+2019-05-29 15:52:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:52:12 +00:00
+2019-05-29 15:52:12.956 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441854s
+2019-05-29 15:52:42.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0077825s
+2019-05-29 15:53:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:53:12 +00:00
+2019-05-29 15:53:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0032754s
+2019-05-29 15:53:42.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0447773s
+2019-05-29 15:54:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:54:12 +00:00
+2019-05-29 15:54:12.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434908s
+2019-05-29 15:54:42.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0031096s
+2019-05-29 15:55:12.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0033160s
+2019-05-29 15:55:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:55:12 +00:00
+2019-05-29 15:55:42.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0442791s
+2019-05-29 15:56:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:56:12 +00:00
+2019-05-29 15:56:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0113034s
+2019-05-29 15:56:42.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0498377s
+2019-05-29 15:57:12.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0075782s
+2019-05-29 15:57:12.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:57:12 +00:00
+2019-05-29 15:57:42.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0431693s
+2019-05-29 15:58:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:58:12 +00:00
+2019-05-29 15:58:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0040181s
+2019-05-29 15:58:42.962 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0558305s
+2019-05-29 15:59:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 7:59:12 +00:00
+2019-05-29 15:59:12.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440228s
+2019-05-29 15:59:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0032120s
+2019-05-29 16:00:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0089085s
+2019-05-29 16:00:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:00:12 +00:00
+2019-05-29 16:00:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435505s
+2019-05-29 16:01:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:01:12 +00:00
+2019-05-29 16:01:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0056006s
+2019-05-29 16:01:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0465682s
+2019-05-29 16:02:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0085447s
+2019-05-29 16:02:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:02:12 +00:00
+2019-05-29 16:02:42.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0448791s
+2019-05-29 16:03:12.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:03:12 +00:00
+2019-05-29 16:03:12.944 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0473494s
+2019-05-29 16:03:42.941 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437326s
+2019-05-29 16:04:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:04:12 +00:00
+2019-05-29 16:04:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0476766s
+2019-05-29 16:04:42.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0454088s
+2019-05-29 16:05:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:05:12 +00:00
+2019-05-29 16:05:12.936 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0272007s
+2019-05-29 16:05:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438573s
+2019-05-29 16:06:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:06:12 +00:00
+2019-05-29 16:06:12.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0455269s
+2019-05-29 16:06:42.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449810s
+2019-05-29 16:07:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:07:12 +00:00
+2019-05-29 16:07:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437407s
+2019-05-29 16:07:42.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440956s
+2019-05-29 16:08:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:08:12 +00:00
+2019-05-29 16:08:12.931 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0266939s
+2019-05-29 16:08:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0120311s
+2019-05-29 16:09:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:09:12 +00:00
+2019-05-29 16:09:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0036537s
+2019-05-29 16:09:42.960 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0610949s
+2019-05-29 16:10:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:10:12 +00:00
+2019-05-29 16:10:12.963 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0588419s
+2019-05-29 16:10:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0042919s
+2019-05-29 16:11:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:11:12 +00:00
+2019-05-29 16:11:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0111920s
+2019-05-29 16:11:42.941 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0442518s
+2019-05-29 16:12:12.924 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0203082s
+2019-05-29 16:12:12.924 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:12:12 +00:00
+2019-05-29 16:12:42.940 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445534s
+2019-05-29 16:13:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:13:12 +00:00
+2019-05-29 16:13:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0137337s
+2019-05-29 16:13:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0109546s
+2019-05-29 16:14:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:14:12 +00:00
+2019-05-29 16:14:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0427931s
+2019-05-29 16:14:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437473s
+2019-05-29 16:15:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:15:12 +00:00
+2019-05-29 16:15:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0045169s
+2019-05-29 16:15:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0428223s
+2019-05-29 16:16:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:16:12 +00:00
+2019-05-29 16:16:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0211635s
+2019-05-29 16:16:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0491957s
+2019-05-29 16:17:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:17:12 +00:00
+2019-05-29 16:17:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0036179s
+2019-05-29 16:17:42.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0446895s
+2019-05-29 16:18:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:18:12 +00:00
+2019-05-29 16:18:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0136914s
+2019-05-29 16:18:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0035519s
+2019-05-29 16:19:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:19:12 +00:00
+2019-05-29 16:19:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0426405s
+2019-05-29 16:19:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437083s
+2019-05-29 16:20:12.896 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:20:12 +00:00
+2019-05-29 16:20:12.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432104s
+2019-05-29 16:20:42.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437831s
+2019-05-29 16:21:12.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0137707s
+2019-05-29 16:21:12.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:21:12 +00:00
+2019-05-29 16:21:42.962 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0537823s
+2019-05-29 16:22:13.100 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.1276887s
+2019-05-29 16:22:13.101 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:22:13 +00:00
+2019-05-29 16:22:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0038613s
+2019-05-29 16:23:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:23:12 +00:00
+2019-05-29 16:23:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0089347s
+2019-05-29 16:23:42.927 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0195682s
+2019-05-29 16:24:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:24:12 +00:00
+2019-05-29 16:24:12.956 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0500829s
+2019-05-29 16:24:42.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0152270s
+2019-05-29 16:25:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:25:12 +00:00
+2019-05-29 16:25:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0089332s
+2019-05-29 16:25:42.944 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0427321s
+2019-05-29 16:26:13.023 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:26:13 +00:00
+2019-05-29 16:26:13.096 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.1552311s
+2019-05-29 16:26:42.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0036270s
+2019-05-29 16:27:12.901 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0032379s
+2019-05-29 16:27:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:27:12 +00:00
+2019-05-29 16:27:42.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0448935s
+2019-05-29 16:28:12.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:28:12 +00:00
+2019-05-29 16:28:12.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445664s
+2019-05-29 16:28:42.963 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0553585s
+2019-05-29 16:29:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:29:12 +00:00
+2019-05-29 16:29:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0030146s
+2019-05-29 16:29:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0028173s
+2019-05-29 16:30:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:30:12 +00:00
+2019-05-29 16:30:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0087481s
+2019-05-29 16:30:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434676s
+2019-05-29 16:31:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:31:12 +00:00
+2019-05-29 16:31:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0042762s
+2019-05-29 16:31:42.972 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0652982s
+2019-05-29 16:32:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:32:12 +00:00
+2019-05-29 16:32:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0100145s
+2019-05-29 16:32:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0442386s
+2019-05-29 16:33:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:33:12 +00:00
+2019-05-29 16:33:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438594s
+2019-05-29 16:33:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0084966s
+2019-05-29 16:34:12.900 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:34:12 +00:00
+2019-05-29 16:34:12.940 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440760s
+2019-05-29 16:34:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434219s
+2019-05-29 16:35:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:35:12 +00:00
+2019-05-29 16:35:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0433937s
+2019-05-29 16:35:42.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0496535s
+2019-05-29 16:36:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:36:12 +00:00
+2019-05-29 16:36:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0035440s
+2019-05-29 16:36:42.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0186452s
+2019-05-29 16:37:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:37:12 +00:00
+2019-05-29 16:37:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0025799s
+2019-05-29 16:37:42.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0146600s
+2019-05-29 16:38:12.929 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:38:12 +00:00
+2019-05-29 16:38:12.971 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0612560s
+2019-05-29 16:38:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0042534s
+2019-05-29 16:39:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0089936s
+2019-05-29 16:39:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:39:12 +00:00
+2019-05-29 16:39:42.941 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0038856s
+2019-05-29 16:40:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:40:12 +00:00
+2019-05-29 16:40:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0084945s
+2019-05-29 16:40:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0110838s
+2019-05-29 16:41:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:41:12 +00:00
+2019-05-29 16:41:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0096263s
+2019-05-29 16:41:42.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0028260s
+2019-05-29 16:42:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0122207s
+2019-05-29 16:42:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:42:12 +00:00
+2019-05-29 16:42:42.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0092595s
+2019-05-29 16:43:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:43:12 +00:00
+2019-05-29 16:43:12.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0426810s
+2019-05-29 16:43:42.937 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437762s
+2019-05-29 16:44:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:44:12 +00:00
+2019-05-29 16:44:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0038688s
+2019-05-29 16:44:42.976 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441896s
+2019-05-29 16:45:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:45:12 +00:00
+2019-05-29 16:45:12.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0486861s
+2019-05-29 16:45:42.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0527349s
+2019-05-29 16:46:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:46:12 +00:00
+2019-05-29 16:46:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0428808s
+2019-05-29 16:46:42.962 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0587127s
+2019-05-29 16:47:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:47:12 +00:00
+2019-05-29 16:47:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0134396s
+2019-05-29 16:47:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0428902s
+2019-05-29 16:48:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:48:12 +00:00
+2019-05-29 16:48:12.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0430963s
+2019-05-29 16:48:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0034942s
+2019-05-29 16:49:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:49:12 +00:00
+2019-05-29 16:49:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0094917s
+2019-05-29 16:49:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0152549s
+2019-05-29 16:50:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:50:12 +00:00
+2019-05-29 16:50:12.924 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0284930s
+2019-05-29 16:50:42.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0431143s
+2019-05-29 16:51:12.896 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:51:12 +00:00
+2019-05-29 16:51:12.897 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0035320s
+2019-05-29 16:51:42.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0439294s
+2019-05-29 16:52:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:52:12 +00:00
+2019-05-29 16:52:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0423286s
+2019-05-29 16:52:42.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0489923s
+2019-05-29 16:53:12.926 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0175344s
+2019-05-29 16:53:12.926 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:53:12 +00:00
+2019-05-29 16:53:42.960 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0498882s
+2019-05-29 16:54:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:54:12 +00:00
+2019-05-29 16:54:12.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435956s
+2019-05-29 16:54:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438894s
+2019-05-29 16:55:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:55:12 +00:00
+2019-05-29 16:55:12.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435532s
+2019-05-29 16:55:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0123721s
+2019-05-29 16:56:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0091122s
+2019-05-29 16:56:12.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:56:12 +00:00
+2019-05-29 16:56:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0429656s
+2019-05-29 16:57:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:57:12 +00:00
+2019-05-29 16:57:12.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0459247s
+2019-05-29 16:57:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0033929s
+2019-05-29 16:58:12.931 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0286633s
+2019-05-29 16:58:12.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:58:12 +00:00
+2019-05-29 16:58:42.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0408615s
+2019-05-29 16:59:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 8:59:12 +00:00
+2019-05-29 16:59:12.956 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0465169s
+2019-05-29 16:59:42.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0495757s
+2019-05-29 17:00:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:00:12 +00:00
+2019-05-29 17:00:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0028623s
+2019-05-29 17:00:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434823s
+2019-05-29 17:01:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:01:12 +00:00
+2019-05-29 17:01:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0431320s
+2019-05-29 17:01:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434523s
+2019-05-29 17:02:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:02:12 +00:00
+2019-05-29 17:02:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0444080s
+2019-05-29 17:02:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438143s
+2019-05-29 17:03:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:03:12 +00:00
+2019-05-29 17:03:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0023323s
+2019-05-29 17:03:42.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0465776s
+2019-05-29 17:04:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:04:12 +00:00
+2019-05-29 17:04:12.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0230534s
+2019-05-29 17:04:42.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0034764s
+2019-05-29 17:05:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:05:12 +00:00
+2019-05-29 17:05:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0117523s
+2019-05-29 17:05:42.898 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0029699s
+2019-05-29 17:06:12.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:06:12 +00:00
+2019-05-29 17:06:12.921 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0117012s
+2019-05-29 17:06:42.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0527941s
+2019-05-29 17:07:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:07:12 +00:00
+2019-05-29 17:07:12.960 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0501165s
+2019-05-29 17:07:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437473s
+2019-05-29 17:08:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:08:12 +00:00
+2019-05-29 17:08:12.956 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0475114s
+2019-05-29 17:08:42.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0145753s
+2019-05-29 17:09:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:09:12 +00:00
+2019-05-29 17:09:12.965 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0544520s
+2019-05-29 17:09:42.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0175789s
+2019-05-29 17:10:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:10:12 +00:00
+2019-05-29 17:10:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0093310s
+2019-05-29 17:10:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0029708s
+2019-05-29 17:11:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:11:12 +00:00
+2019-05-29 17:11:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435364s
+2019-05-29 17:11:42.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0436070s
+2019-05-29 17:12:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:12:12 +00:00
+2019-05-29 17:12:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0032875s
+2019-05-29 17:12:42.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0048903s
+2019-05-29 17:13:12.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:13:12 +00:00
+2019-05-29 17:13:13.001 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0609399s
+2019-05-29 17:13:42.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0027130s
+2019-05-29 17:14:12.897 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:14:12 +00:00
+2019-05-29 17:14:12.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432606s
+2019-05-29 17:14:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0095818s
+2019-05-29 17:15:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:15:12 +00:00
+2019-05-29 17:15:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0081045s
+2019-05-29 17:15:42.959 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0494679s
+2019-05-29 17:16:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:16:12 +00:00
+2019-05-29 17:16:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0025946s
+2019-05-29 17:16:42.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0086264s
+2019-05-29 17:17:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:17:12 +00:00
+2019-05-29 17:17:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0043766s
+2019-05-29 17:17:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440328s
+2019-05-29 17:18:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:18:12 +00:00
+2019-05-29 17:18:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0450239s
+2019-05-29 17:18:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0427129s
+2019-05-29 17:19:12.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:19:12 +00:00
+2019-05-29 17:19:12.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0355787s
+2019-05-29 17:19:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0173800s
+2019-05-29 17:20:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:20:12 +00:00
+2019-05-29 17:20:12.966 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0586472s
+2019-05-29 17:20:42.940 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438297s
+2019-05-29 17:21:12.899 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:21:12 +00:00
+2019-05-29 17:21:12.942 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440240s
+2019-05-29 17:21:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0051475s
+2019-05-29 17:22:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:22:12 +00:00
+2019-05-29 17:22:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0113698s
+2019-05-29 17:22:42.963 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0543697s
+2019-05-29 17:23:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:23:12 +00:00
+2019-05-29 17:23:12.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449759s
+2019-05-29 17:23:42.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0041449s
+2019-05-29 17:24:12.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:24:12 +00:00
+2019-05-29 17:24:12.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0148087s
+2019-05-29 17:24:42.922 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0138569s
+2019-05-29 17:25:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:25:12 +00:00
+2019-05-29 17:25:12.932 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0228587s
+2019-05-29 17:25:42.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0134192s
+2019-05-29 17:26:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:26:12 +00:00
+2019-05-29 17:26:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449542s
+2019-05-29 17:26:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0455984s
+2019-05-29 17:27:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:27:12 +00:00
+2019-05-29 17:27:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441608s
+2019-05-29 17:27:42.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0095870s
+2019-05-29 17:28:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:28:12 +00:00
+2019-05-29 17:28:12.944 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0454932s
+2019-05-29 17:28:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0433471s
+2019-05-29 17:29:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:29:12 +00:00
+2019-05-29 17:29:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0028791s
+2019-05-29 17:29:42.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0117655s
+2019-05-29 17:30:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:30:12 +00:00
+2019-05-29 17:30:12.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0444179s
+2019-05-29 17:30:42.978 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0620227s
+2019-05-29 17:31:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:31:12 +00:00
+2019-05-29 17:31:12.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449035s
+2019-05-29 17:31:42.942 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0345653s
+2019-05-29 17:32:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:32:12 +00:00
+2019-05-29 17:32:12.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0473058s
+2019-05-29 17:32:42.965 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0573315s
+2019-05-29 17:33:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:33:12 +00:00
+2019-05-29 17:33:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0446739s
+2019-05-29 17:33:42.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0040052s
+2019-05-29 17:34:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:34:12 +00:00
+2019-05-29 17:34:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0432937s
+2019-05-29 17:34:42.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0099430s
+2019-05-29 17:35:12.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:35:12 +00:00
+2019-05-29 17:35:12.943 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0449614s
+2019-05-29 17:35:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0031604s
+2019-05-29 17:36:12.901 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:36:12 +00:00
+2019-05-29 17:36:12.902 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0039587s
+2019-05-29 17:36:42.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0028840s
+2019-05-29 17:37:12.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:37:12 +00:00
+2019-05-29 17:37:12.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0427201s
+2019-05-29 17:37:42.938 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0443813s
+2019-05-29 17:38:12.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:38:12 +00:00
+2019-05-29 17:38:13.000 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0843007s
+2019-05-29 17:38:42.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0110838s
+2019-05-29 17:39:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0094572s
+2019-05-29 17:39:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:39:12 +00:00
+2019-05-29 17:39:42.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440096s
+2019-05-29 17:40:12.925 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:40:12 +00:00
+2019-05-29 17:40:12.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0374229s
+2019-05-29 17:40:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440316s
+2019-05-29 17:41:12.913 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:41:12 +00:00
+2019-05-29 17:41:12.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0114392s
+2019-05-29 17:41:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0030639s
+2019-05-29 17:42:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:42:12 +00:00
+2019-05-29 17:42:12.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440941s
+2019-05-29 17:42:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0041765s
+2019-05-29 17:43:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0094962s
+2019-05-29 17:43:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:43:12 +00:00
+2019-05-29 17:43:42.914 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0121708s
+2019-05-29 17:44:12.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:44:12 +00:00
+2019-05-29 17:44:12.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0467323s
+2019-05-29 17:44:42.939 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0443383s
+2019-05-29 17:45:12.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:45:12 +00:00
+2019-05-29 17:45:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0217371s
+2019-05-29 17:45:42.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0102603s
+2019-05-29 17:46:12.929 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:46:12 +00:00
+2019-05-29 17:46:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0430677s
+2019-05-29 17:46:42.954 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445628s
+2019-05-29 17:47:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:47:12 +00:00
+2019-05-29 17:47:12.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438107s
+2019-05-29 17:47:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441481s
+2019-05-29 17:48:12.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0436776s
+2019-05-29 17:48:12.953 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:48:12 +00:00
+2019-05-29 17:48:42.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0032487s
+2019-05-29 17:49:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:49:12 +00:00
+2019-05-29 17:49:12.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0045508s
+2019-05-29 17:49:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0438612s
+2019-05-29 17:50:12.924 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:50:12 +00:00
+2019-05-29 17:50:12.966 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0585645s
+2019-05-29 17:50:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0471244s
+2019-05-29 17:51:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:51:12 +00:00
+2019-05-29 17:51:12.941 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0434289s
+2019-05-29 17:51:42.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0435761s
+2019-05-29 17:52:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:52:12 +00:00
+2019-05-29 17:52:12.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0448220s
+2019-05-29 17:52:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0107620s
+2019-05-29 17:53:12.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:53:12 +00:00
+2019-05-29 17:53:12.925 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0300018s
+2019-05-29 17:53:42.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0102053s
+2019-05-29 17:54:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0086961s
+2019-05-29 17:54:12.918 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:54:12 +00:00
+2019-05-29 17:54:42.927 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0193807s
+2019-05-29 17:55:12.915 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:55:12 +00:00
+2019-05-29 17:55:12.958 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0532073s
+2019-05-29 17:55:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0443479s
+2019-05-29 17:56:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:56:12 +00:00
+2019-05-29 17:56:12.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0033151s
+2019-05-29 17:56:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0429953s
+2019-05-29 17:57:12.906 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:57:12 +00:00
+2019-05-29 17:57:12.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0229509s
+2019-05-29 17:57:42.945 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0440367s
+2019-05-29 17:58:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:58:12 +00:00
+2019-05-29 17:58:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0054026s
+2019-05-29 17:58:42.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0027220s
+2019-05-29 17:59:09.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0042705s
+2019-05-29 17:59:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 9:59:12 +00:00
+2019-05-29 17:59:12.947 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0426759s
+2019-05-29 17:59:42.904 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0061402s
+2019-05-29 18:00:12.910 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:00:12 +00:00
+2019-05-29 18:00:12.963 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0656293s
+2019-05-29 18:00:42.903 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0096912s
+2019-05-29 18:01:12.923 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:01:12 +00:00
+2019-05-29 18:01:12.955 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0468618s
+2019-05-29 18:01:42.920 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0124376s
+2019-05-29 18:02:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0041122s
+2019-05-29 18:02:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:02:12 +00:00
+2019-05-29 18:02:30.897 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042345s
+2019-05-29 18:02:42.911 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.0062225s
+2019-05-29 18:03:12.919 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:03:12 +00:00
+2019-05-29 18:03:12.928 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0193828s
+2019-05-29 18:03:42.952 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0433093s
+2019-05-29 18:04:12.933 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:04:12 +00:00
+2019-05-29 18:04:12.982 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0754747s
+2019-05-29 18:04:42.946 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441704s
+2019-05-29 18:05:12.912 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:05:12 +00:00
+2019-05-29 18:05:12.949 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0446252s
+2019-05-29 18:05:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0431509s
+2019-05-29 18:06:12.937 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:06:12 +00:00
+2019-05-29 18:06:12.950 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0437849s
+2019-05-29 18:06:42.908 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0030071s
+2019-05-29 18:07:12.905 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:07:12 +00:00
+2019-05-29 18:07:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0046584s
+2019-05-29 18:07:42.958 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0504726s
+2019-05-29 18:08:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0088662s
+2019-05-29 18:08:12.917 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:08:12 +00:00
+2019-05-29 18:08:42.942 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0484662s
+2019-05-29 18:09:12.916 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:09:12 +00:00
+2019-05-29 18:09:12.957 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0493297s
+2019-05-29 18:09:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0446607s
+2019-05-29 18:10:12.931 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:10:12 +00:00
+2019-05-29 18:10:12.944 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0342129s
+2019-05-29 18:10:42.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0445655s
+2019-05-29 18:11:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0039812s
+2019-05-29 18:11:12.907 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:11:12 +00:00
+2019-05-29 18:11:42.948 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0441713s
+2019-05-29 18:12:12.909 +08:00 [serviceconsume_netcore] [Information] SkyApm.Service.PingService : Ping server @2019/5/29 10:12:12 +00:00
+2019-05-29 18:12:12.951 +08:00 [serviceconsume_netcore] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0446730s
