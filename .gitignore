@@ -71,3 +71,14 @@ buildNumber.properties
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+/netcore/serviceconsume-netcore/.vs
+/netcore/serviceconsume-netcore/serviceconsume-netcore/obj
+/netcore/serviceconsume-netcore/serviceconsume-netcore/bin
+/netcore/serviceconsume-netcore/serviceconsume-netcore/logs
+/netcore/serviceconsume-netcore/serviceconsume-netcore/*.user
+/netcore/skywalkingstarting/.vs
+/netcore/skywalkingstarting/skywalkingstarting/obj
+/netcore/skywalkingstarting/skywalkingstarting/.vs
+/netcore/skywalkingstarting/skywalkingstarting/bin
+/netcore/skywalkingstarting/skywalkingstarting/logs
+/netcore/skywalkingstarting/skywalkingstarting/*.user
